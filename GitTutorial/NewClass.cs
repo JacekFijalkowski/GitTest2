@@ -9,5 +9,6 @@ namespace GitTutorial
     class NewClass
     {
         public int MyProperty { get; set; }
+        // comment from github
     }
 }
