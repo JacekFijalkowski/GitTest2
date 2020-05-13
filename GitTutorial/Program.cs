@@ -10,7 +10,7 @@ namespace GitTutorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi from github with pull");
+            Console.WriteLine("Hi from vs");
         }
     }
 }
